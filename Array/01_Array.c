@@ -4,7 +4,7 @@
      
      //int marks1 = 97;
      //int marks2 = 98;
-     //int marks3 = 89;
+     //int marks3 = 78;
 
       int marks [3];
       printf("enter phy : ");
