@@ -2,9 +2,9 @@
 
   int main (){
      
-     //int marks1 = 97;
-     //int marks2 = 98;
-     //int marks3 = 78;
+     //int marks1 = 89;
+     //int marks2 = 96;
+     //int marks3 = 97;
 
       int marks [3];
       printf("enter phy : ");
